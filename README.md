@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a skilled Flutter developer with 2 years of experience in mobile app development. Passionate about creating innovative and user-friendly applications, I'm committed to delivering high-quality code that meets the needs of today's mobile users. With a strong understanding of app architecture, state management, and widget libraries, I have developed several mobile apps for both Android and iOS platforms. I am dedicated to staying up-to-date with the latest advancements in mobile technology and continuously learning new skills to improve my knowledge. 
+I'm a skilled Flutter developer with 3 years of experience in mobile app development. Passionate about creating innovative and user-friendly applications, I'm committed to delivering high-quality code that meets the needs of today's mobile users. With a strong understanding of app architecture, state management, and widget libraries, I have developed several mobile apps for both Android and iOS platforms. I am dedicated to staying up-to-date with the latest advancements in mobile technology and continuously learning new skills to improve my knowledge. 
 
 
 ## 🌐 Socials:
