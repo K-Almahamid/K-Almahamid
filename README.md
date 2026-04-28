@@ -1,18 +1,105 @@
-# 💫 About Me:
-I'm a skilled Flutter developer with 3 years of experience in mobile app development. Passionate about creating innovative and user-friendly applications, I'm committed to delivering high-quality code that meets the needs of today's mobile users. With a strong understanding of app architecture, state management, and widget libraries, I have developed several mobile apps for both Android and iOS platforms. I am dedicated to staying up-to-date with the latest advancements in mobile technology and continuously learning new skills to improve my knowledge. 
+# 👋 Hi, I'm Khaled Almahamid
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KhaledWalidAlmahamid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khaled_almahamid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-almahamid) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=K-Almahamid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=K-Almahamid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Almahamid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🚀 Flutter Developer | Mobile Architect | Team Lead  
+📍 Amman, Jordan  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=K-Almahamid&icon=8&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+Flutter Developer with **4+ years of experience** building high-performance Android & iOS applications across **ride-hailing, fintech, and e-commerce** domains.
+
+I specialize in:
+- 🧠 Clean Architecture & scalable app design
+- ⚡ High-performance apps (reduced app size by up to 60%)
+- 📡 Real-time systems & live tracking
+- 💳 Payment integrations (Stripe, PayPal, Apple Pay, Google Pay, local wallets)
+
+I’ve delivered **15+ production apps** and led full app lifecycles — from idea to deployment on App Store & Google Play.
+
+---
+
+## 🧠 Core Expertise
+
+- **Architecture:** Clean Architecture, SOLID Principles
+- **State Management:** GetX, Bloc, Cubit, Provider
+- **Mobile:** Flutter (Android & iOS), Flutter Web
+- **Backend Integration:** REST APIs, Firebase
+- **Real-Time:** Live tracking, WebSockets, Firebase Realtime DB
+- **Maps:** Google Maps API, Places API, Route Polylines
+- **Payments:** Stripe, PayPal, Apple Pay, Google Pay, Zain Cash, Orange, Umniah, Dinark
+- **Performance:** App optimization, size reduction, animations tuning
+- **Testing:** Unit, Widget, Integration Testing
+
+---
+
+## 🚀 Featured Projects
+
+### 🚖 TaxiK (Ride-Hailing Platform)
+- Rider & Driver apps with real-time tracking
+- Live driver movement with bearing & animated markers
+- Google Maps integration + route polylines
+- Firebase real-time updates
+
+---
+
+### 📊 Brainogram (AI Trading Platform)
+- Clean Architecture with Bloc/Cubit
+- AI-based strategies & account management
+- In-app purchases & advanced UI flows
+
+---
+
+### 🛒 Black Iris (E-commerce Merchant App)
+- Wallet system & product management
+- Invoice generation + printer integration
+- Optimized app size to ~7MB
+
+---
+
+### 🎥 Expert World
+- Video & voice calls using Agora
+- Real-time chat & booking system
+- Multi-role scalable architecture
+
+---
+
+## 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![GetX](https://img.shields.io/badge/GetX-State%20Management-blue?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-State%20Management-purple?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-API-red?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=K-Almahamid&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=K-Almahamid&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Almahamid&layout=compact&theme=dark)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-almahamid)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://k-almahamid.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.w.almahamid@gmail.com)
+
+---
+
+## ⚡ What I Care About
+
+- Writing **clean, scalable, reusable code**
+- Building **real-world production systems**
+- Delivering **fast, optimized, user-friendly apps**
+- Continuous learning & improvement
+
+---
+
+![](https://komarev.com/ghpvc/?username=K-Almahamid&label=Profile%20views&color=0e75b6&style=flat)
